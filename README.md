@@ -43,7 +43,7 @@ Then serve it from firebase-cli:
 
 ```sh
 npm start
-```
+``
 
 ## Running on Firebase
 
